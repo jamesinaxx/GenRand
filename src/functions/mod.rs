@@ -1,6 +1,5 @@
-use std::io::{stdout, Write};
-
 use rand::Rng;
+use std::io::{stdout, Write};
 
 const LETTERS: &str = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 
